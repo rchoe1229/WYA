@@ -31,17 +31,6 @@ WYA allows users to create private events, invite friends, and display each user
 
 MVP WIP
 
-## Challenges
-
-* Socket.io
-* Leaflet
-
-
-## Contact
-
-[Ryan Choe](https://www.linkedin.com/in/ryanchoe1229/)
-
-
 ## Technologies
 
 * Ruby on Rails
@@ -50,3 +39,12 @@ MVP WIP
 * CSS
 * Socket.io
 * Leaflet
+
+## Challenges
+
+* Socket.io
+* Leaflet
+
+## Contact
+
+[Ryan Choe](https://www.linkedin.com/in/ryanchoe1229/)
