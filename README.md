@@ -9,7 +9,6 @@ Always stay connected, always stay safe
 * Features
 * Status
 * Challenges
-* How to Collaborate
 * Contact
 * Technologies
 
