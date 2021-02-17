@@ -1,24 +1,53 @@
-# README
+# WYA
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Always stay connected, always stay safe
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+* General Info
+* Video
+* Features
+* Status
+* Challenges
+* How to Collaborate
+* Contact
+* Technologies
 
-* System dependencies
+## General Info
 
-* Configuration
+WYA allows users to create private events, invite friends, and display each user on a map  to show each user's location.
 
-* Database creation
+## Video
 
-* Database initialization
+[Watch our video!]
 
-* How to run the test suite
+## Features
 
-* Services (job queues, cache servers, search engines, etc.)
+* Basic Backend
+* Leaflet map
+* Display user location
 
-* Deployment instructions
 
-* ...
+## Status
+
+MVP WIP
+
+## Challenges
+
+* Socket.io
+* Leaflet
+
+
+## Contact
+
+[Ryan Choe](https://www.linkedin.com/in/ryanchoe1229/)
+
+
+## Technologies
+
+* Ruby on Rails
+* JavaScript
+* HTML
+* CSS
+* Socket.io
+* Leaflet
