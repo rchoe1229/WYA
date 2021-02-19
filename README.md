@@ -25,11 +25,13 @@ WYA allows users to create private events, invite friends, and display each user
 * Basic Backend
 * Leaflet map
 * Display user location
+* Chatting feature
+* Login -- WIP
 
 
 ## Status
 
-MVP WIP
+MVP
 
 ## Technologies
 
@@ -37,8 +39,9 @@ MVP WIP
 * JavaScript
 * HTML
 * CSS
-* Socket.io
 * Leaflet
+* Socket.io
+* Express.js
 
 ## Challenges
 
