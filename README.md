@@ -14,11 +14,11 @@ Always stay connected, always stay safe
 
 ## General Info
 
-WYA allows users to create private events, invite friends, and display each user on a map  to show each user's location.
+WYA allows users to create private events, invite friends, and display each user on a map to share their location. User's that partake in an event will be allowed to chat with all attendees!
 
 ## Video
 
-[Watch our video!]
+[Watch the video!]
 
 ## Features
 
@@ -26,7 +26,7 @@ WYA allows users to create private events, invite friends, and display each user
 * Leaflet map
 * Display user location
 * Chatting feature
-* Login -- WIP
+* Login
 
 
 ## Status
@@ -47,6 +47,7 @@ MVP
 
 * Socket.io
 * Leaflet
+* Auth
 
 ## Contact
 

@@ -2,7 +2,7 @@ class AuthenticationController < ApplicationController
   def login 
     @user = User.find_by({ name: params[:name] })
     if !@user
-      render json: { error: "Not an OG User" }, status: :unauthorized
+      render json: { error: "Not an OG User/Password" }, status: :unauthorized
     else
       if !@user.authenticate(params[:password])
         render json: { error: "Not an OG User/Password" }, status: :unauthorized
